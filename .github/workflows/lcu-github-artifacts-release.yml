@@ -1,4 +1,4 @@
-name: GitHub Artifacts - Release
+name: kcarrol/platform-technology-gatsby
 
 on:
   push:
